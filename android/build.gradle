@@ -2,6 +2,7 @@ group 'com.payubiz.payu_checkoutpro_flutter'
 version '1.0-SNAPSHOT'
 
 buildscript {
+    namespace 'com.payubiz.payu_checkoutpro_flutter'
     ext.kotlin_version = '1.6.10'
     repositories {
         google()
